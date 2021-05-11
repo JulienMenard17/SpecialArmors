@@ -1,0 +1,13 @@
+Effects:
+    - DamageMultiplication
+    - FireDamageIncrease
+    - FireResistance
+    - FireResistanceOff
+    - HealthBoost
+    - LootingIncrease
+    - MobsProtection
+    - PlayerWeakness
+    - Poison
+    - Slowness
+    - Vampire
+    - WaterDamage

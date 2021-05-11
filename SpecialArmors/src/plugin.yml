@@ -1,0 +1,8 @@
+name: SpecialArmors
+version: 0.1
+author: SharkMenard
+main: ca.sharkmenard.specialarmors.Main
+
+commands:
+ specialarmors:
+   aliases: [sa, specialarmor]
